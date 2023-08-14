@@ -18,3 +18,10 @@ print("for multiplication")
 a=int(input("Enter num1="))
 b=int(input("Enter num2="))
 print('sum=',multi(a,b))
+
+def div(n1,n2):
+    return(n1+n2)
+print("for Division")
+a=int(input("Enter num1="))
+b=int(input("Enter num2="))
+print('sum=',div(a,b))
